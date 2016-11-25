@@ -7,7 +7,7 @@ require 'date'
 
 # BEGIN INTERACTIVE SECTION
 # Comment out this section (from here down to where the end is marked) if you want to use this interactively
-
+=begin
 puts "Username:"
 USERNAME = gets.chomp  
 if USERNAME == ""
@@ -40,22 +40,22 @@ end
 
 puts "Do you want just one Milestone? If so, enter it now. Leave this blank to get the entire repo."
 TARGET_MILESTONE = gets.chomp  
-
+=end
 # END INTERACTIVE SECTION
 
 
 # BEGIN HARD-CODED SECTION
 # Un-comment out this section (from here down to where the end is marked) if you want to use this without any interaction
 # All of these need to be filled out in order for it to work
-=begin
-OUTPUT_FILE = ""
-USERNAME = ""   # Put your GitHub username inside the quotes
-PASSWORD = ""   # Put your GitHub password inside the quotes 
-ORG = ""        # Put your organization (or username if you have no org) name here
-REPO = ""       # Put the repository name here
+
+OUTPUT_FILE = "https://github.com/rameshsankar-appointe2e/Mytest/blob/master/Book1.csv"
+USERNAME = "rameshsankar-appointe2e"   # Put your GitHub username inside the quotes
+PASSWORD = "Pa55w0rd"   # Put your GitHub password inside the quotes 
+ORG = "rameshsankar-appointe2e"        # Put your organization (or username if you have no org) name here
+REPO = "https://github.com/rameshsankar-appointe2e/Mytest.git"       # Put the repository name here
 # Want to only get a single milestone? Put the milestone name in here:
 TARGET_MILESTONE="" # keep this equal to "" if you want all milestones
-=end  # END HARD-CODED SECTION
+ # END HARD-CODED SECTION
 
 
 # Your local timezone offset to convert times
