@@ -9,7 +9,7 @@ require 'csv'
 
 # BEGIN INTERACTIVE SECTION
 # Comment out this section (from here down to where the end is marked) if you want to use this interactively
-
+=begin
 puts "Username:"
 username = gets.chomp  
 if username == ""
@@ -39,6 +39,7 @@ repo = gets.chomp
 if repo == ""
 	abort("You need to supply a repository. Thank you, come again.")
 end
+=end
 
 # END INTERACTIVE SECTION
 
@@ -46,13 +47,13 @@ end
 # BEGIN HARD-CODED SECTION
 # Un-comment out this section (from here down to where the end is marked) if you want to use this without any interaction
 # All of these need to be filled out in order for it to work
-=begin
-input_file = ""
-username = ""
-password = ""
-org = "" 
-repo = ""
-=end  # END HARD-CODED SECTION
+
+input_file = "https://github.com/rameshsankar-appointe2e/Mytest/blob/master/Book1.csv"
+username = "rameshsankar-appointe2e"
+password = "Pa55w0rd"
+org = "rameshsankar-appointe2e" 
+repo = "https://github.com/rameshsankar-appointe2e/Mytest.git"
+# END HARD-CODED SECTION
 
 org_repo = org + "/" + repo
 
