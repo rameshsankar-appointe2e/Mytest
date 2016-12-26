@@ -1,5 +1,4 @@
 #!/usr/bin/ruby
-
 require 'octokit'
 require 'csv'
 require 'date'
@@ -48,29 +47,29 @@ TARGET_MILESTONE = gets.chomp
 # Un-comment out this section (from here down to where the end is marked) if you want to use this without any interaction
 # All of these need to be filled out in order for it to work
 
-OUTPUT_FILE = "https://github.com/rameshsankar-appointe2e/Mytest/blob/master/Book1.csv"
+OUTPUT_FILE = "Book8"
 USERNAME = "rameshsankar-appointe2e"   # Put your GitHub username inside the quotes
 PASSWORD = "Pa55w0rd"   # Put your GitHub password inside the quotes 
 ORG = "rameshsankar-appointe2e"        # Put your organization (or username if you have no org) name here
-REPO = "https://github.com/rameshsankar-appointe2e/Mytest.git"       # Put the repository name here
+REPO = "Mytest"       # Put the repository name here
 # Want to only get a single milestone? Put the milestone name in here:
 TARGET_MILESTONE="" # keep this equal to "" if you want all milestones
- # END HARD-CODED SECTION
 
-
+  # END HARD-CODED SECTION
 # Your local timezone offset to convert times
-TIMEZONE_OFFSET="-4"
- 
+TIMEZONE_OFFSET="+5.30"
+#client = Octokit::Client.new(:login => 'ctshryock', :password => 'secret')
+#client.authorization(999999)
 client = Octokit::Client.new(:login => USERNAME, :password => PASSWORD)
- 
+#File.open(File.dirname(__FILE__) + '/text.txt').each {|line| puts line}
 csv = CSV.new(File.open(File.dirname(__FILE__) + "/" + OUTPUT_FILE + ".csv", 'w'))
- 
+#File.open(File.dirname(__FILE__) + '/text.txt').each {|line| puts line} 
 puts "Initialising CSV file..."
 #CSV Headers
 header = [
   "Issue number",
   "Title",
-  "Description",
+  "body",
   "Date created",
   "Date modified",
   "Labels",

@@ -1,5 +1,4 @@
-#!/usr/local/bin/ruby
-
+#!/usr/bin/ruby
 # See the README for how to use this.
 
 require 'rubygems'
@@ -40,7 +39,6 @@ if repo == ""
 	abort("You need to supply a repository. Thank you, come again.")
 end
 =end
-
 # END INTERACTIVE SECTION
 
 
@@ -48,24 +46,42 @@ end
 # Un-comment out this section (from here down to where the end is marked) if you want to use this without any interaction
 # All of these need to be filled out in order for it to work
 
-input_file = "https://github.com/rameshsankar-appointe2e/Mytest/blob/master/Book1.csv"
+#input_file = "https://github.com/rameshsankar-appointe2e/Mytest/tree/master/Book1.csv"
+
+input_file = "/home/guestuser/Mytest/CSV-GitHub-import-export/Book2.csv"
 username = "rameshsankar-appointe2e"
 password = "Pa55w0rd"
-org = "rameshsankar-appointe2e" 
-repo = "https://github.com/rameshsankar-appointe2e/Mytest.git"
-# END HARD-CODED SECTION
+org = "rameshsankar-appointe2e"
+repo = "Mytest"
+
+ # END HARD-CODED SECTION
 
 org_repo = org + "/" + repo
 
-client = Octokit::Client.new(:login => username, :password => password)
+#client = Octokit::Client.new(:login => 'ctshryock', :password => 'secret')
+#client.authorization(999999)
 
+client = Octokit::Client.new(:login => username, :password => password)
+#File.open(File.dirname(__FILE__) + '/text.txt').each {|line| puts line}
 csv_text = File.read(input_file)
 csv = CSV.parse(csv_text, :headers => true)
 
 csv.each do |row|
-	client.create_issue(org_repo, row['title'], row['description'], options = {
-		:assignee => row['assignee_username'], 
-		:labels => [row['label1'],row['label2'],row['label3']]})  #Add or remove label columns here.
-	puts "Imported issue:  #{row['title']}"
+	#File.open(File.dirname(__FILE__) + '/text.txt').each {|line| puts line}
+	client.create_issue(org_repo, row['Title'], row['description'],
+		options = {
+		:number => row['Issue Number'],
+		:title => row['Title'],
+		:description => row['description'],
+		:labels => [row['Label1'],row['Label2'],row['Label3'],row['Label4'],row['Label5'],row['Label6'],row['Label7'],row['Label8'],row['Label9']],
+		:milestone => row['milestone'],
+		:state => row['Status'],
+		:assignee => row['assignee_username'],
+		:mentioned => row['mentioned'],
+		:creator => row['creator']}) 
+	#Add or remove label columns here.
+	
+	puts "Imported issue:  #{row['Title']}" 
+		
 end
 
