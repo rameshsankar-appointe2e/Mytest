@@ -1,0 +1,184 @@
+Issue number,Title,body,Date created,Date modified,Labels,Milestone,Status,Assignee,Reporter
+145,testing changelog,testing ,24/Dec/16  7:39 AM,24/Dec/16  3:34 PM,"",None,closed,None,rameshsankar-appointe2e
+139,My Profile,In phone no field it should accept numbers only.But it accepting Letters also.It should be avoided.Please refer to screen shot,30/Nov/16  3:20 PM,26/Dec/16  5:32 AM,11-7-2016 Arun Bug Chrome Confirmed Development Medium Minor Move to Live ,None,closed,rameshsankar-appointe2e,rameshsankar-appointe2e
+137,Discount / offer Coupons List,The sorting option for status bar is not working,30/Nov/16  3:20 PM,24/Dec/16  9:37 AM,11-21-2016 Bug Chrome Confirmed Development Feedback Medium Minor Naveen ,None,closed,rameshsankar-appointe2e,rameshsankar-appointe2e
+136,Staff List,Broken images were displaying in the staff list page.Please refer to screenshot.,30/Nov/16  3:20 PM,24/Dec/16  7:38 AM,11-22-2016 Arun Bug Chrome Confirmed Development High Minor Move to Live ,None,closed,rameshsankar-appointe2e,rameshsankar-appointe2e
+134,Service List,Status Title missing in the service Lists.,30/Nov/16  3:20 PM,24/Dec/16 10:00 AM,11-7-2016 Bug Chrome Confirmed High Major Move to Live Ragul UX ,None,closed,ragul-appointe2e,rameshsankar-appointe2e
+124,Business Details,"Once the Business Logo is uploaded, and click Submit button, and move to some other menu and returning back, the broken image is displaying.",30/Nov/16  3:19 PM,24/Dec/16  8:43 AM,11-17-2016 Bug Chrome Closed Confirmed Development High Minor Ragul ,None,closed,rameshsankar-appointe2e,rameshsankar-appointe2e
+123,Add Offer,When tried to submit the add offer page.it take more time to submit.,30/Nov/16  3:19 PM,24/Dec/16  8:43 AM,11-17-2016 Bug Chrome Closed Confirmed Development Major Medium Naveen ,None,closed,rameshsankar-appointe2e,rameshsankar-appointe2e
+122,Add Offer,when cursor is clicked in Between field.we should not able to edit the hours field.But the field is editable using keyboard,30/Nov/16  3:19 PM,24/Dec/16  8:43 AM,11-17-2016 Bug Chrome Confirmed Low Minor Naveen Open UX ,None,closed,ragul-appointe2e,rameshsankar-appointe2e
+121,Add Gift Certificate,If we create gift certificate in dev site mail receiving in inbox but at the same time if we create gift certificate in live site mail receiveing in Spam.,30/Nov/16  3:19 PM,24/Dec/16  8:43 AM,11-22-2016 Arun Bug Chrome Closed Confirmed Development Medium Minor ,None,closed,rameshsankar-appointe2e,rameshsankar-appointe2e
+120,Business Details,Business setup:After we completing all 5 steps in business setup and finally when we click submit button.Alert msg is not displaying properly.Please refer to video.,30/Nov/16  3:19 PM,24/Dec/16  8:43 AM,11-5-2016 Arun Bug Chrome Closed Confirmed Low Text UX ,None,closed,ragul-appointe2e,rameshsankar-appointe2e
+116,Registration,Terms & Condition & Privacy Policy is not functioning.,30/Nov/16  3:19 PM,26/Dec/16  5:16 AM,11-5-2016 Bug Chrome Closed Confirmed High Major Ragul UX ,None,closed,None,rameshsankar-appointe2e
+1,Test1,This is the Test 1: Configuration invalid repository,26/Nov/16  5:46 AM,26/Dec/16  6:51 AM,Bug ,Milestone1,closed,rameshsankar-appointe2e,rameshsankar-appointe2e
+183,Provider - Biz Detail (Gallery) - Add,Provider - Biz Detail (Gallery) - Add,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+182,Provider - Biz Detail - Edit,Provider - Biz Detail - Edit,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+181,Provider - Biz Detail - Add,Provider - Biz Detail - Add,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+180,Staff - Logout,Staff - Logout,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+179,Customer - Logout,Customer - Logout,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+178,Provider - Logout,Provider - Logout,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+177,Super admin - Logout,Super admin - Logout,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+176,Staff - Forgot Password,Staff - Forgot Password,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+175,Customer - Forgot Password,Customer - Forgot Password,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+174,Provider - Forgot Password,Provider - Forgot Password,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+173,Staff - Login as a staff,Staff - Login as a staff,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+172,Super admin - Account login,Super admin - Account login,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+171,Provider - Account login,Provider - Account login,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+170,Customer - Account login,Customer - Account login,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+169,Staff - Email Verification at registration,Staff - Email Verification at registration,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+168,Provider - Email Verification at registration,Provider - Email Verification at registration,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+167,Customer - Email Verification at registration,Customer - Email Verification at registration,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+166,Provider - Registration,Provider - Registration,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+165,Customer - Registration,Customer - Registration,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+164,Templates for Service Provider Landing page (Details),Templates for Service Provider Landing page (Details),27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+163,Sockets.io framework configuration,Sockets.io framework configuration,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+162,"Module structure for Calendars (Google Calendar,i-Cal,Office 365)","Module structure for Calendars (Google Calendar,i-Cal,Office 365)",27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+161,Data parsing/Validation using global scope at AngularJS,Data parsing/Validation using global scope at AngularJS,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+160,API Server using Zend Apigility,API Server using Zend Apigility,27/Dec/16  1:37 PM,27/Dec/16  1:37 PM,Completed Feature ,None,open,None,rameshsankar-appointe2e
+159,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",27/Dec/16  1:12 PM,27/Dec/16  1:12 PM,12-27-2016 Confirmed Development Feature Medium Minor Ramesh Resolved in Live Safari ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+158,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",27/Dec/16  1:09 PM,27/Dec/16  1:09 PM,10-27-2016 Block Chrome Confirmed Design Feature Medium Ragul Resolved in Live ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+157,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",27/Dec/16  1:09 PM,27/Dec/16  1:09 PM,10-26-2016 Confirmed Feature Low Major Ragul Resolved in Live Safari UI ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+156,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",27/Dec/16  1:09 PM,27/Dec/16  1:09 PM,10-25-2016 Bug Confirmed Development High IE Minor Move to Live Ragul ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+155,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",27/Dec/16  1:08 PM,27/Dec/16  1:08 PM,10-27-2016 Block Chrome Confirmed Design Feature Medium Ragul Resolved in Live ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+154,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",27/Dec/16  1:08 PM,27/Dec/16  1:08 PM,10-26-2016 Confirmed Feature Low Major Ragul Resolved in Live Safari UI ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+153,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",27/Dec/16  1:08 PM,27/Dec/16  1:08 PM,10-25-2016 Bug Confirmed Development High IE Minor Move to Live Ragul ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+152,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",26/Dec/16 10:38 AM,26/Dec/16 10:38 AM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+151,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",26/Dec/16  8:37 AM,26/Dec/16 10:53 AM,10-29-2016 Confirmed Development Feature Hold Low Minor Opera Ramesh ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+150,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",26/Dec/16  8:35 AM,26/Dec/16 10:53 AM,10-28-2016 Confirmed Development Feature Firefox High Major Ramesh Resolved ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+149,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",26/Dec/16  7:43 AM,26/Dec/16  1:33 PM,10-27-2016 Block Chrome Confirmed Design Feature Medium Ragul Resolved in Live ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+148,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",26/Dec/16  7:38 AM,26/Dec/16  1:33 PM,10-26-2016 Confirmed Feature Low Major Ragul Resolved in Live Safari UI ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+147,To do Assist,Test 1 bug ,26/Dec/16  6:50 AM,26/Dec/16  1:33 PM,10-25-2016 Bug Confirmed Development High IE Minor Move to Live Ragul ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+146,#110,Fixed and closes issue #110 ,26/Dec/16  5:45 AM,26/Dec/16  5:59 AM,"",None,open,None,rameshsankar-appointe2e
+144,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",30/Nov/16  3:21 PM,30/Nov/16  3:21 PM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+143,Appointment & meetings,Collaboration page when the image is selected it is not showing in the text box before we send the content.Once the image is clicked it is directlly sent.,30/Nov/16  3:20 PM,30/Nov/16  3:20 PM,11-14-2016 Bug Chrome Confirmed Development High Major Naveen Open ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+142,Appointment & meetings,"Collaboration page:When we open a image file in shared files,it should open in new window.Please refer the video.",30/Nov/16  3:20 PM,30/Nov/16  3:20 PM,11-7-2016 Arun Bug Chrome Closed Confirmed Development Medium Minor ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+141,Discount / offer Coupons List,The sorting function is not working properly in the discount/offer coupons list module.Plese refer the video,30/Nov/16  3:20 PM,30/Nov/16  3:20 PM,11-21-2016 Bug Chrome Confirmed Development Medium Minor Naveen Reopen ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+140,My Profile,"After we enter all necessary fields when we type text in Phone no field and finally we click submit button it should show the error message.But it accepting the text in Phone no field and displaying as ""Profile updated sucessfully"".It should be avoided.Please refer the video",30/Nov/16  3:20 PM,30/Nov/16  3:20 PM,11-7-2016 Arun Bug Chrome Confirmed Development Medium Minor Move to Live ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+138,To do Assist,Broken images were displaying in the profile image.Please refer to the screenshot.,30/Nov/16  3:20 PM,30/Nov/16  3:20 PM,11-7-2016 Arun Bug Chrome Closed Confirmed Development High Minor ,None,open,None,rameshsankar-appointe2e
+135,Add offer /Add discount,calender function is not working properly.doesnt display asper the page alignment.please see the vedio,30/Nov/16  3:20 PM,30/Nov/16  3:20 PM,11-7-2016 Bug Chrome Confirmed Development Medium Minor Naveen Open ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+133,Add Offer,"Name of the button""Select image "" is not displayed fully when we try to edit the offer ",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-7-2016 Bug Chrome Closed Confirmed Low Minor Naveen UX ,None,open,None,rameshsankar-appointe2e
+132,Add New Services,"By Leaving blank in the Mandatory fields & Click Submit button, the Alert message displaying is wrong. It should be followed standard Alert message throughout the website.",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-7-2016 Bug Chrome Confirmed Low Move to Live Ragul Text UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+131,Add Discount,it takes more time to submit the discount page,30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-7-2016 Bug Chrome Closed Confirmed Medium Minor Naveen UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+130,Add New Branch / Location,"By Leaving blank in the Mandatory fields & Click Submit button, the Alert message displaying is wrong. It should be followed standard Alert message throughout the website.",30/Nov/16  3:19 PM,26/Dec/16  5:23 AM,11-25-2016 Bug Chrome Confirmed Low Ragul Reopen Text UX ,Milestone1,open,ragul-appointe2e,rameshsankar-appointe2e
+129,Branch / Location List,"The Fax field is not listed when adding in the Branch/Location List, but the Title Fax is displaying in Branch/Location List page.",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-7-2016 Bug Chrome Confirmed Low Minor Move to Live Ragul UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+128,Business Details,"Once the Gallery Images is uploaded, and click Submit button, and move to some other menu and returning back, the uploaded Gallery images is not displayed.",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-7-2016 Bug Chrome Closed Confirmed Development Medium Minor Ragul ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+127,Biz setup step 4,We could not able to go to next setup.by leaveing the hours field empty.it shows fill the mandatory field.but the hours filed is not mandatory ,30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-7-2016 Bug Chrome Confirmed Low Minor Move to Live Naveen UX ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+126,Add Offer,When tried to edit the offer created.The field in the form are mismatch when compared to fields in Add offer page.,30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-17-2016 Bug Chrome Closed Confirmed Development High Major Naveen ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+125,Add Offer,The calender is not dispalying as per the page alignment,30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-7-2016 Bug Chrome Confirmed Low Naveen Open Text UX ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+119,Biz setup step 2,"Once by finishing the Biz setup 1 and click Next button, in the Biz setup, by default the alert message displayed for Address field. ",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-28-2016 Bug Chrome Confirmed Low Ragul Reopen Text UX ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+118,Biz setup step 1,"Without finishing the mandatory fields & Click Next button, alert message should be throwed.",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-28-2016 Bug Chrome Confirmed Development High Major Ragul Reopen ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+117,To do Assist,"Once the Provider registered Successfully. By giving valid credentials in Login page & click Submit button, the Business Setup page should be displayed first. But the To-do Assist page displaying.",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-5-2016 Bug Chrome Closed Confirmed Medium Minor Ragul UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+115,Registration,"When i clicked in the ""i agree"" text, the Enable, Disable Check box is working. It should Enable, Disable only when clicked in the Checkbox.",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-5-2016 Bug Chrome Confirmed Low Move to Live Ragul Trivial UI ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+114,Registration,"In the Service Provider Registarion form, once by entering full name, Email, Password & Click Reset button. the Entered details in the fields gets cleared, but the User required text should not display untill Sign Up button is clicked.",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-17-2016 Bug Chrome Confirmed Low Move to Live Ragul Text UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+113,Appointment & meetings,If we forward conversation alert message is not displaying properly.Please refer to screenshot.,30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-5-2016 Arun Bug Chrome Closed Confirmed Development Medium Minor ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+112,Appointment & meetings,Leave Conversation button is not working properly.Please refer to video.,30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-5-2016 Arun Block Bug Chrome Closed Confirmed Development High ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+111,Appointment & meetings,Collaboration page:Broken images were dispalying in Conversation group chat.Please refer to screenshot,30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,11-24-2016 Arun Bug Chrome Confirmed Development High Major Open ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+110,Login Page,Forgot password link is not working properly.Please refer to screenshsot,30/Nov/16  3:19 PM,26/Dec/16  5:50 AM,11-5-2016 Arun Block Chrome Confirmed Development Feature High Hold ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+109,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+108,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",30/Nov/16  3:19 PM,30/Nov/16  3:19 PM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+107,Appointment & meetings,,30/Nov/16  3:15 PM,30/Nov/16  3:15 PM,11-14-2016 Bug Chrome Confirmed Development High Major Naveen Open ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+106,Appointment & meetings,,30/Nov/16  3:15 PM,30/Nov/16  3:15 PM,11-7-2016 Arun Bug Chrome Closed Confirmed Development Medium Minor ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+105,Discount / offer Coupons List,,30/Nov/16  3:15 PM,30/Nov/16  3:15 PM,11-21-2016 Bug Chrome Confirmed Development Medium Minor Naveen Reopen ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+104,My Profile,,30/Nov/16  3:15 PM,30/Nov/16  3:15 PM,11-7-2016 Arun Bug Chrome Confirmed Development Medium Minor Move to Live ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+103,My Profile,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Arun Bug Chrome Confirmed Development Medium Minor Move to Live ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+102,To do Assist,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Arun Bug Chrome Closed Confirmed Development High Minor ,None,open,None,rameshsankar-appointe2e
+101,Discount / offer Coupons List,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-21-2016 Bug Chrome Confirmed Development Feedback Medium Minor Naveen ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+100,Staff List,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-22-2016 Arun Bug Chrome Confirmed Development High Minor Move to Live ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+99,Add offer /Add discount,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Bug Chrome Confirmed Development Medium Minor Naveen Open ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+98,Service List,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Bug Chrome Confirmed High Major Move to Live Ragul UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+97,Add Offer,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Bug Chrome Closed Confirmed Low Minor Naveen UX ,None,open,None,rameshsankar-appointe2e
+96,Add New Services,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Bug Chrome Confirmed Low Move to Live Ragul Text UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+95,Add Discount,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Bug Chrome Closed Confirmed Medium Minor Naveen UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+94,Add New Branch / Location,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-25-2016 Bug Chrome Confirmed Low Ragul Reopen Text UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+93,Branch / Location List,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Bug Chrome Confirmed Low Minor Move to Live Ragul UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+92,Business Details,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Bug Chrome Closed Confirmed Development Medium Minor Ragul ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+91,Biz setup step 4,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Bug Chrome Confirmed Low Minor Move to Live Naveen UX ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+90,Add Offer,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-17-2016 Bug Chrome Closed Confirmed Development High Major Naveen ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+89,Add Offer,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-7-2016 Bug Chrome Confirmed Low Naveen Open Text UX ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+88,Business Details,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-17-2016 Bug Chrome Closed Confirmed Development High Minor Ragul ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+87,Add Offer,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-17-2016 Bug Chrome Closed Confirmed Development Major Medium Naveen ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+86,Add Offer,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-17-2016 Bug Chrome Confirmed Low Minor Naveen Open UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+85,Add Gift Certificate,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-22-2016 Arun Bug Chrome Closed Confirmed Development Medium Minor ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+84,Business Details,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-5-2016 Arun Bug Chrome Closed Confirmed Low Text UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+83,Biz setup step 2,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-28-2016 Bug Chrome Confirmed Low Ragul Reopen Text UX ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+82,Biz setup step 1,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-28-2016 Bug Chrome Confirmed Development High Major Ragul Reopen ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+81,To do Assist,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-5-2016 Bug Chrome Closed Confirmed Medium Minor Ragul UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+80,Registration,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-5-2016 Bug Chrome Closed Confirmed High Major Ragul UX ,None,open,None,rameshsankar-appointe2e
+79,Registration,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-5-2016 Bug Chrome Confirmed Low Move to Live Ragul Trivial UI ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+78,Registration,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-17-2016 Bug Chrome Confirmed Low Move to Live Ragul Text UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+77,Appointment & meetings,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-5-2016 Arun Bug Chrome Closed Confirmed Development Medium Minor ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+76,Appointment & meetings,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-5-2016 Arun Block Bug Chrome Closed Confirmed Development High ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+75,Appointment & meetings,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-24-2016 Arun Bug Chrome Confirmed Development High Major Open ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+74,Login Page,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,11-5-2016 Arun Block Chrome Confirmed Development Feature High Hold ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+73,To do Assist,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+72,To do Assist,,30/Nov/16  3:14 PM,30/Nov/16  3:14 PM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+71,Appointment & meetings,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-14-2016 Bug Chrome Confirmed Development High Major Naveen Open ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+70,Appointment & meetings,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Arun Bug Chrome Closed Confirmed Development Medium Minor ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+69,Discount / offer Coupons List,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-21-2016 Bug Chrome Confirmed Development Medium Minor Naveen Reopen ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+68,My Profile,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Arun Bug Chrome Confirmed Development Medium Minor Move to Live ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+67,My Profile,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Arun Bug Chrome Confirmed Development Medium Minor Move to Live ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+66,To do Assist,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Arun Bug Chrome Closed Confirmed Development High Minor ,None,open,None,rameshsankar-appointe2e
+65,Discount / offer Coupons List,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-21-2016 Bug Chrome Confirmed Development Feedback Medium Minor Naveen ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+64,Staff List,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-22-2016 Arun Bug Chrome Confirmed Development High Minor Move to Live ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+63,Add offer /Add discount,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Bug Chrome Confirmed Development Medium Minor Naveen Open ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+62,Service List,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Bug Chrome Confirmed High Major Move to Live Ragul UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+61,Add Offer,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Bug Chrome Closed Confirmed Low Minor Naveen UX ,None,open,None,rameshsankar-appointe2e
+60,Add New Services,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Bug Chrome Confirmed Low Move to Live Ragul Text UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+59,Add Discount,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Bug Chrome Closed Confirmed Medium Minor Naveen UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+58,Add New Branch / Location,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-25-2016 Bug Chrome Confirmed Low Ragul Reopen Text UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+57,Branch / Location List,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Bug Chrome Confirmed Low Minor Move to Live Ragul UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+56,Business Details,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Bug Chrome Closed Confirmed Development Medium Minor Ragul ,None,open,None,rameshsankar-appointe2e
+55,Biz setup step 4,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Bug Chrome Confirmed Low Minor Move to Live Naveen UX ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+54,Add Offer,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-17-2016 Bug Chrome Closed Confirmed Development High Major Naveen ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+53,Add Offer,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-7-2016 Bug Chrome Confirmed Low Naveen Open Text UX ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+52,Business Details,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-17-2016 Bug Chrome Closed Confirmed Development High Minor Ragul ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+51,Add Offer,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-17-2016 Bug Chrome Closed Confirmed Development Major Medium Naveen ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+50,Add Offer,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-17-2016 Bug Chrome Confirmed Low Minor Naveen Open UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+49,Add Gift Certificate,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-22-2016 Arun Bug Chrome Closed Confirmed Development Medium Minor ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+48,Business Details,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-5-2016 Arun Bug Chrome Closed Confirmed Low Text UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+47,Biz setup step 2,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-28-2016 Bug Chrome Confirmed Low Ragul Reopen Text UX ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+46,Biz setup step 1,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-28-2016 Bug Chrome Confirmed Development High Major Ragul Reopen ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+45,To do Assist,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-5-2016 Bug Chrome Closed Confirmed Medium Minor Ragul UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+44,Registration,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-5-2016 Bug Chrome Closed Confirmed High Major Ragul UX ,None,open,None,rameshsankar-appointe2e
+43,Registration,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-5-2016 Bug Chrome Confirmed Low Move to Live Ragul Trivial UI ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+42,Registration,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-17-2016 Bug Chrome Confirmed Low Move to Live Ragul Text UX ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+41,Appointment & meetings,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-5-2016 Arun Bug Chrome Closed Confirmed Development Medium Minor ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+40,Appointment & meetings,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-5-2016 Arun Block Bug Chrome Closed Confirmed Development High ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+39,Appointment & meetings,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-24-2016 Arun Bug Chrome Confirmed Development High Major Open ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+38,Login Page,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,11-5-2016 Arun Block Chrome Confirmed Development Feature High Hold ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+37,To do Assist,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+36,To do Assist,,30/Nov/16  2:51 PM,30/Nov/16  2:51 PM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+35,To do Assist,,30/Nov/16  5:32 AM,30/Nov/16  5:32 AM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,ragul-appointe2e,rameshsankar-appointe2e
+34,To do Assist,,30/Nov/16  5:28 AM,30/Nov/16  5:28 AM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+33,To do Assist,,29/Nov/16  2:21 PM,29/Nov/16  2:21 PM,10-25-2016 Bug Chrome Confirmed Development High Minor Move to Live Ragul ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+32,To do Assist,,29/Nov/16  2:13 PM,29/Nov/16  2:13 PM,10-25-2016 Chrome Ragul ,None,open,None,rameshsankar-appointe2e
+31,Test 2,This is the test 2 desc,29/Nov/16  1:59 PM,29/Nov/16  1:59 PM,Bug Feature Improvement ,None,open,None,rameshsankar-appointe2e
+30,Test 30,This is the test 30 desc,29/Nov/16  1:35 PM,29/Nov/16  1:35 PM,Bug Feature Improvement ,None,open,None,rameshsankar-appointe2e
+29,Test 29,This is the test 29 desc,29/Nov/16  1:34 PM,29/Nov/16  1:34 PM,Bug Feature Improvement ,None,open,None,rameshsankar-appointe2e
+28,Test 28,This is the test 28 desc,29/Nov/16  1:31 PM,29/Nov/16  1:31 PM,Bug Development Feature ,None,open,None,rameshsankar-appointe2e
+27,Test 27,This is the test 27 desc,29/Nov/16  1:27 PM,29/Nov/16  1:27 PM,Bug Feature Improvement ,None,open,None,rameshsankar-appointe2e
+26,Test 24,This is the test 24 desc,29/Nov/16  9:10 AM,29/Nov/16  9:10 AM,Feature ,None,open,None,rameshsankar-appointe2e
+25,Test 24,This is the test 24 desc,29/Nov/16  9:09 AM,29/Nov/16  9:09 AM,Feature ,None,open,None,rameshsankar-appointe2e
+24,Test 24,This is the test 24 desc,28/Nov/16  2:25 PM,28/Nov/16  2:25 PM,Feature ,None,open,None,rameshsankar-appointe2e
+23,Test 23,This is the test12 desc,28/Nov/16  2:13 PM,28/Nov/16  2:13 PM,Feature ,None,open,None,rameshsankar-appointe2e
+22,Test 22,This is the test12 desc,28/Nov/16  2:10 PM,28/Nov/16  2:10 PM,Bug ,None,open,None,rameshsankar-appointe2e
+21,Test 22,This is the test12 desc,28/Nov/16  2:06 PM,28/Nov/16  2:06 PM,Bug ,None,open,None,rameshsankar-appointe2e
+20,Test 22,This is the test12 desc,28/Nov/16  1:58 PM,28/Nov/16  1:58 PM,Bug ,None,open,None,rameshsankar-appointe2e
+19,Test 18,This is the test18 desc,28/Nov/16  1:47 PM,28/Nov/16  1:47 PM,Feature ,None,open,None,rameshsankar-appointe2e
+18,Test 18,This is the test18 desc,28/Nov/16  1:46 PM,28/Nov/16  1:46 PM,Bug ,None,open,None,rameshsankar-appointe2e
+17,Test 5,This is the test5 desc,28/Nov/16  1:41 PM,28/Nov/16  1:41 PM,Improvement ,None,open,None,rameshsankar-appointe2e
+16,Test 4,This is the test4 desc,28/Nov/16  1:41 PM,28/Nov/16  1:41 PM,Development ,None,open,None,rameshsankar-appointe2e
+15,Test 3,This is the test3 desc,28/Nov/16  1:41 PM,28/Nov/16  1:41 PM,Improvement ,None,open,None,rameshsankar-appointe2e
+14,Test 2,This is the test2 desc,28/Nov/16  1:41 PM,28/Nov/16  1:41 PM,Feature ,None,open,None,rameshsankar-appointe2e
+13,Test 1,This is the test1 desc,28/Nov/16  1:41 PM,28/Nov/16  1:41 PM,Bug ,None,open,None,rameshsankar-appointe2e
+12,Test 12,This is the test12 desc,28/Nov/16 11:47 AM,28/Nov/16 12:25 PM,Bug Hold Improvement ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+11,Test 11,This is the test11 desc,28/Nov/16 11:47 AM,28/Nov/16 12:26 PM,Bug Hold Improvement ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+10,Test 3,This is the test3 desc,28/Nov/16 11:47 AM,28/Nov/16 11:47 AM,Bug Hold Improvement ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+9,Test 2,This is the test2 desc,28/Nov/16 11:47 AM,28/Nov/16 11:47 AM,Bug Feature Hold ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+8,Test 1,This is the test1 desc,28/Nov/16 11:47 AM,28/Nov/16 11:47 AM,Feature Hold Improvement ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+7,Test 4,This is the test3 desc,28/Nov/16 11:45 AM,28/Nov/16 11:45 AM,Bug Enhancement Improvement ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+6,Test 4,This is the test3 desc,28/Nov/16 11:45 AM,28/Nov/16 11:45 AM,Bug Enhancement Improvement ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+5,Test 3,This is the test3 desc,28/Nov/16 11:45 AM,28/Nov/16 11:45 AM,Bug Enhancement Improvement ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+4,Test 2,This is the test2 desc,28/Nov/16 11:45 AM,28/Nov/16 11:45 AM,Bug Feature Question ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+3,Test 1,This is the test1 desc,28/Nov/16 11:45 AM,28/Nov/16 11:45 AM,Bug Feature Improvement ,None,open,rameshsankar-appointe2e,rameshsankar-appointe2e
+2,Test 2,"",28/Nov/16  9:48 AM,28/Nov/16  9:48 AM,Bug ,Milestone1,open,rameshsankar-appointe2e,rameshsankar-appointe2e

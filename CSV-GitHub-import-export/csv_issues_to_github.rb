@@ -48,7 +48,7 @@ end
 
 #input_file = "https://github.com/rameshsankar-appointe2e/Mytest/tree/master/Book1.csv"
 
-input_file = "/home/guestuser/Mytest/CSV-GitHub-import-export/Book2.csv"
+input_file = "/home/guestuser/Mytest/Mytest/Book2.csv"
 username = "rameshsankar-appointe2e"
 password = "Pa55w0rd"
 org = "rameshsankar-appointe2e"
@@ -68,12 +68,11 @@ csv = CSV.parse(csv_text, :headers => true)
 
 csv.each do |row|
 	#File.open(File.dirname(__FILE__) + '/text.txt').each {|line| puts line}
-	client.create_issue(org_repo, row['Title'], row['description'],
-		options = {
-		:number => row['Issue Number'],
+	client.close_issue(org_repo,row['number'],options = {
+		:number => row['number'],
 		:title => row['Title'],
 		:description => row['description'],
-		:labels => [row['Label1'],row['Label2'],row['Label3'],row['Label4'],row['Label5'],row['Label6'],row['Label7'],row['Label8'],row['Label9']],
+		:labels => [row['Label1'],row['Label2']],
 		:milestone => row['milestone'],
 		:state => row['Status'],
 		:assignee => row['assignee_username'],
@@ -84,4 +83,3 @@ csv.each do |row|
 	puts "Imported issue:  #{row['Title']}" 
 		
 end
-

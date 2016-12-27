@@ -47,7 +47,7 @@ TARGET_MILESTONE = gets.chomp
 # Un-comment out this section (from here down to where the end is marked) if you want to use this without any interaction
 # All of these need to be filled out in order for it to work
 
-OUTPUT_FILE = "Book8"
+OUTPUT_FILE = "Book9"
 USERNAME = "rameshsankar-appointe2e"   # Put your GitHub username inside the quotes
 PASSWORD = "Pa55w0rd"   # Put your GitHub password inside the quotes 
 ORG = "rameshsankar-appointe2e"        # Put your organization (or username if you have no org) name here
