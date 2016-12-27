@@ -1,6 +1,0 @@
-number,Title,description,Label1,Label2,Label3,Label4,Label5,Label6,Label7,Label8,Label9,milestones,Status,assignee_username,mentioned,creator
-147,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",Ragul,IE,10-25-2016,Minor,Bug,High,Move to Live,Confirmed,Development,Milestone 2,open,Rameshsankar-appointe2e,,ragul-appointe2e
-148,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",Ragul,Safari,10-26-2016,Major,feature,Low,Resolved in Live,Confirmed,UI,Milestone 2,open,Rameshsankar-appointe2e,,ragul-appointe2e
-149,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",Ragul,Chrome,10-27-2016,Block,feature,Medium,Resolved in Live,Confirmed,Design,Milestone 3,open,Rameshsankar-appointe2e,,ragul-appointe2e
-150,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",Ramesh,Firefox,10-28-2016,Major,feature,High,Resolved  ,Confirmed,Development,Milestone 4,open,Rameshsankar-appointe2e,,ragul-appointe2e
-151,To do Assist,"To do Assist: Without uploading the profile image, by default the broken image is displaying. ",Ramesh,Opera,10-29-2016,Minor,feature,Low,Hold,Confirmed,Development,Milestone 5,open,Rameshsankar-appointe2e,,ragul-appointe2e
